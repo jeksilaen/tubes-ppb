@@ -13,35 +13,35 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:3:9-71
-15-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:3:26-68
+15-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:3:9-71
+15-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:3:26-68
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:6:5-80
-16-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:6:22-77
+16-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:6:5-80
+16-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:6:22-77
 17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-17-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:4:5-76
-17-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:4:22-73
+17-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:4:5-76
+17-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:4:22-73
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-18-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:5:5-79
-18-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:5:22-76
+18-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:5:5-79
+18-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:5:22-76
 19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-19-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:5-80
-19-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:22-78
+19-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:5-80
+19-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:22-78
 20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-20-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:5-80
-20-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:22-78
+20-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:5-80
+20-->C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\android\app\src\main\AndroidManifest.xml:7:22-78
 21
 22    <queries>
-22-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:15
+22-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:15
 23        <intent>
-23-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:18
+23-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:18
 24            <action android:name="android.intent.action.GET_CONTENT" />
-24-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-72
-24-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-69
+24-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-72
+24-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-69
 25
 26            <data android:mimeType="*/*" />
-26-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
-26-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:19-41
+26-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
+26-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:19-41
 27        </intent>
 28    </queries>
 29
@@ -86,31 +86,31 @@
 61            android:value="2" />
 62
 63        <service
-63-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+63-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 64            android:name="com.google.firebase.components.ComponentDiscoveryService"
-64-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+64-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 65            android:directBootAware="true"
 65-->[com.google.firebase:firebase-common:20.3.2] C:\Users\ismiw\.gradle\caches\transforms-3\d0329f9e423b96e827a6bc0ab4cc7266\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 66            android:exported="false" >
 66-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\ismiw\.gradle\caches\transforms-3\3358ab79e77c941884cd094dba39e1f7\transformed\jetified-firebase-analytics-ktx-21.3.0\AndroidManifest.xml:10:13-37
 67            <meta-data
-67-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+67-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 68                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-68-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+68-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 69                android:value="com.google.firebase.components.ComponentRegistrar" />
-69-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+69-->[:firebase_auth] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 70            <meta-data
-70-->[:firebase_database] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+70-->[:firebase_database] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 71                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
-71-->[:firebase_database] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-127
+71-->[:firebase_database] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-127
 72                android:value="com.google.firebase.components.ComponentRegistrar" />
-72-->[:firebase_database] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+72-->[:firebase_database] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 73            <meta-data
-73-->[:firebase_core] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+73-->[:firebase_core] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 74                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-74-->[:firebase_core] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+74-->[:firebase_core] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 75                android:value="com.google.firebase.components.ComponentRegistrar" />
-75-->[:firebase_core] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+75-->[:firebase_core] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 76            <meta-data
 76-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\ismiw\.gradle\caches\transforms-3\3358ab79e77c941884cd094dba39e1f7\transformed\jetified-firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
 77                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
@@ -150,13 +150,13 @@
 94        </service>
 95
 96        <activity
-96-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+96-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
 97            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-97-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+97-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 98            android:exported="false"
-98-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+98-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 99            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-99-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+99-->[:url_launcher_android] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 100        <activity
 100-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\ismiw\.gradle\caches\transforms-3\86612b671f974fc71a2d31d84741def7\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:29:9-46:20
 101            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
@@ -183,7 +183,7 @@
 110-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\ismiw\.gradle\caches\transforms-3\86612b671f974fc71a2d31d84741def7\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
 111
 112                <data
-112-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
+112-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
 113                    android:host="firebase.auth"
 114                    android:path="/"
 115                    android:scheme="genericidp" />
@@ -215,7 +215,7 @@
 128-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\ismiw\.gradle\caches\transforms-3\86612b671f974fc71a2d31d84741def7\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
 129
 130                <data
-130-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
+130-->[:file_picker] C:\KULIAH\SEMESTER 6\PEMROGRAMAN PERANGKAT BERGERAK\eref-final\tubes-ppb\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
 131                    android:host="firebase.auth"
 132                    android:path="/"
 133                    android:scheme="recaptcha" />

@@ -1,4 +1,4 @@
-#Fri Jun 16 14:51:23 ICT 2023
-base.0=C\:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref\\tubes-ppb\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Jun 16 15:01:12 ICT 2023
+base.0=C\:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref-final\\tubes-ppb\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

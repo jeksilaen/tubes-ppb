@@ -2007,6 +2007,25 @@
             "outputFile": "com.example.e_reference.app-merged_res-8:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref-final\\tubes-ppb\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "139,143",
+                        "startColumns": "4,4",
+                        "startOffsets": "10187,10368",
+                        "endLines": "142,145",
+                        "endColumns": "12,12",
+                        "endOffsets": "10363,10532"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ismiw\\.gradle\\caches\\transforms-3\\0b3dc6354400919df2891621b749120d\\transformed\\jetified-android-pdf-viewer-3.2.0-beta.3\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -2023,6 +2042,23 @@
                         "endLines": "296",
                         "endColumns": "24",
                         "endOffsets": "16165"
+                    }
+                },
+                {
+                    "source": "C:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref-final\\tubes-ppb\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,346,428,532,641,761,862",
+                        "endColumns": "143,146,81,103,108,119,100,77",
+                        "endOffsets": "194,341,423,527,636,756,857,935"
+                    },
+                    "to": {
+                        "startLines": "127,131,132,133,134,135,136,137",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "9016,9375,9522,9604,9708,9817,9937,10038",
+                        "endColumns": "143,146,81,103,108,119,100,77",
+                        "endOffsets": "9155,9517,9599,9703,9812,9932,10033,10111"
                     }
                 },
                 {
@@ -2064,25 +2100,6 @@
                     }
                 },
                 {
-                    "source": "C:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref\\tubes-ppb\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "139,143",
-                        "startColumns": "4,4",
-                        "startOffsets": "10187,10368",
-                        "endLines": "142,145",
-                        "endColumns": "12,12",
-                        "endOffsets": "10363,10532"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ismiw\\.gradle\\caches\\transforms-3\\a89bd0e64120b064165fe7d2635bd104\\transformed\\browser-1.4.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -2097,23 +2114,6 @@
                         "startOffsets": "661,719,785,848,1713,1784,8948,9160,9227,9306",
                         "endColumns": "57,65,62,61,70,71,67,66,78,68",
                         "endOffsets": "714,780,843,905,1779,1851,9011,9222,9301,9370"
-                    }
-                },
-                {
-                    "source": "C:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref\\tubes-ppb\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,346,428,532,641,761,862",
-                        "endColumns": "143,146,81,103,108,119,100,77",
-                        "endOffsets": "194,341,423,527,636,756,857,935"
-                    },
-                    "to": {
-                        "startLines": "127,131,132,133,134,135,136,137",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "9016,9375,9522,9604,9708,9817,9937,10038",
-                        "endColumns": "143,146,81,103,108,119,100,77",
-                        "endOffsets": "9155,9517,9599,9703,9812,9932,10033,10111"
                     }
                 },
                 {
@@ -2175,7 +2175,7 @@
             "outputFile": "com.example.e_reference.app-merged_res-8:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref\\tubes-ppb\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\KULIAH\\SEMESTER 6\\PEMROGRAMAN PERANGKAT BERGERAK\\eref-final\\tubes-ppb\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
