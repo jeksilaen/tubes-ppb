@@ -208,6 +208,11 @@ class _RegisterPageState extends State<RegisterPage> {
                                 if (_formKey.currentState!.validate()) {
                                   register(_fullName, _email, _phoneNumber,
                                       _password, dataUser);
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                        builder: (context) => LoginPage()),
+                                  );
                                 }
                               },
                               style: ButtonStyle(

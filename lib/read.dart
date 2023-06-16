@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:dio/dio.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -121,11 +122,22 @@ class _ReadPageState extends State<ReadPage> {
   }
 
   Future<void> downloadPDF() async {
-    Directory appDocDir = await getApplicationDocumentsDirectory();
-    print(appDocDir.path);
+    Directory downloadsDir;
+    if (Platform.isAndroid) {
+      downloadsDir = Directory('/storage/emulated/0/Download');
+    } else if (Platform.isIOS) {
+      downloadsDir = await getApplicationDocumentsDirectory();
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Unsupported platform for accessing Downloads folder.'),
+        ),
+      );
+      return;
+    }
+
     String fileName = 'SE_Pressman.pdf';
-    String localFilePath =
-        '${appDocDir.path}/$fileName'; // Update the file path
+    String localFilePath = '${downloadsDir.path}/$fileName';
 
     if (await File(localFilePath).exists()) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -136,42 +148,26 @@ class _ReadPageState extends State<ReadPage> {
     } else {
       String url =
           'https://repository.dinus.ac.id/docs/ajar/Software_Engineering_-_Pressman.pdf';
-      HttpClient httpClient = HttpClient();
+      Dio dio = Dio();
 
       try {
-        HttpClientRequest request = await httpClient.getUrl(Uri.parse(url));
-        HttpClientResponse response = await request.close();
+        await dio.download(url, localFilePath);
 
-        if (response.statusCode == 200) {
-          File file = File(localFilePath);
-          await file.create(
-              recursive: true); // Create the file if it doesn't exist
-          await response.pipe(file.openWrite());
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('File berhasil diunduh.'),
+          ),
+        );
 
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text('File berhasil diunduh.'),
-            ),
-          );
-
-          setState(() {
-            filePath = localFilePath;
-          });
-        } else {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text('Gagal mengunduh file.'),
-            ),
-          );
-        }
+        setState(() {
+          filePath = localFilePath;
+        });
       } catch (e) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
             content: Text('Terjadi kesalahan dalam mengunduh file.'),
           ),
         );
-      } finally {
-        httpClient.close();
       }
     }
   }

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.e_reference.app-mergeDebugResources-16:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.example.e_reference.app-mergeDebugResources-6:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Zacharia Bachtiar\\.gradle\\caches\\transforms-3\\a89bd0e64120b064165fe7d2635bd104\\transformed\\browser-1.4.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\ismiw\\.gradle\\caches\\transforms-3\\a89bd0e64120b064165fe7d2635bd104\\transformed\\browser-1.4.0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Zacharia Bachtiar\\.gradle\\caches\\transforms-3\\32a751ba0e14373defd8f9c75fa84aab\\transformed\\core-1.7.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\ismiw\\.gradle\\caches\\transforms-3\\32a751ba0e14373defd8f9c75fa84aab\\transformed\\core-1.7.0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
